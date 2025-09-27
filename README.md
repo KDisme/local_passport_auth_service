@@ -55,7 +55,7 @@ Dự án này là một API xác thực người dùng sử dụng Node.js, Expr
   - Sai username: `{ "message": "User not found" }`
   ![User not found](img/image8.png)
   - Sai password: `{ "message": "Wrong password" }`
-  ![Wrong password](image.png)
+  ![Wrong password](img/image9.png)
   - HTTP 401 hoặc thông báo lỗi
 
 ### 3. Xem thông tin cá nhân
